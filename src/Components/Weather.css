@@ -1,0 +1,26 @@
+.input{
+    width: 60%;
+
+}
+Form.Control{
+    width: 60%;
+}
+
+h1{
+    color: white;
+    font-size: 5em;
+}
+
+h2{
+    color: white;
+    font-size: 4em;
+}
+
+.info{
+    color: azure;
+    font-size: 1.3em;
+}
+.desc{
+    color: bisque;
+    font-size: 1.8em;
+}

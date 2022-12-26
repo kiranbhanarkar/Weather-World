@@ -1,0 +1,62 @@
+
+
+.valid-feedback, .invalid-feedback {
+	display: block;
+}
+
+.inputStyle{
+	font-size: 1em; color:white; background-color: black;  border: 10px solid black ; border-bottom: 1.5px solid white;
+	
+}
+.inputStyle:focus {
+	background-color: rgb(12, 12, 12);
+	border-bottom: 1px solid white;
+	caret-color: blue
+  }
+
+
+h1{
+	color: aliceblue;
+	margin-top: 5%;
+	margin-left: 7px;
+}
+
+
+.registrationForm{
+	margin: 10px auto;
+	left: 300px;
+}
+
+h2{
+	color: white;
+	font-size: large;
+	font-family:serif;
+	letter-spacing: 2px;
+}
+.alert{
+	color: green;
+}
+
+
+
+*{
+	background-color: black;
+}
+
+.login{
+	width: 60%;
+	margin: 10px auto;
+}
+
+.logintype{
+	font-size: 1em; color:white; background-color: black;  border: 10px solid black ; border-bottom: 1.5px solid white;
+}
+.logintype:focus {
+	background-color: rgb(12, 12, 12);
+	border-bottom: 1px solid white;
+	caret-color: blue
+  }
+
+
+
+
