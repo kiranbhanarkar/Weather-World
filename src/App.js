@@ -13,11 +13,9 @@ function App() {
   return (
     <div className="App">
      <Provider store={store}>
-    
-      {/* <Weather /> */}
+  
       <BrowserRouter>
-        <NavbarComponent />
-        
+        <NavbarComponent /> 
         <Switch>
         <Route path="/Home">
         <Weather />
@@ -28,7 +26,6 @@ function App() {
           <Route path="/Login">
              <Login />
           </Route>
-        
         </Switch>
       </BrowserRouter>
       </Provider>
